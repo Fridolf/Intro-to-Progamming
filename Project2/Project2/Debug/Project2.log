@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\niro\source\repos\project2\project2\source.cpp(16): warning C4715: 'number': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Niro\source\repos\Project2\Debug\Project2.exe

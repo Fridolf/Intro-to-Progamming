@@ -1,0 +1,4 @@
+﻿  Slot_main.cpp
+c:\users\niro\source\repos\slot machine\slot machine\slot_main.cpp(200): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\niro\source\repos\slot machine\slot machine\slot_main.cpp(200): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Slot Machine.vcxproj -> C:\Users\Niro\source\repos\Slot Machine\Debug\Slot Machine.exe

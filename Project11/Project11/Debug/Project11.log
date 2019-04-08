@@ -1,0 +1,16 @@
+﻿  Inventory.cpp
+  Location.cpp
+  Main.cpp
+c:\users\niro\source\repos\project11\project11\location.h(1): fatal error C1021: invalid preprocessor command 'extern'
+  Misc.cpp
+c:\users\niro\source\repos\project11\project11\misc.cpp(21): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\niro\source\repos\project11\project11\misc.cpp(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Objects.cpp
+c:\users\niro\source\repos\project11\project11\objects.cpp(8): error C2059: syntax error: '{'
+c:\users\niro\source\repos\project11\project11\objects.cpp(8): error C2143: syntax error: missing ';' before '{'
+c:\users\niro\source\repos\project11\project11\objects.cpp(8): error C2447: '{': missing function header (old-style formal list?)
+c:\users\niro\source\repos\project11\project11\objects.cpp(9): error C2447: '{': missing function header (old-style formal list?)
+c:\users\niro\source\repos\project11\project11\objects.cpp(10): error C2447: '{': missing function header (old-style formal list?)
+c:\users\niro\source\repos\project11\project11\objects.cpp(11): error C2059: syntax error: '}'
+c:\users\niro\source\repos\project11\project11\objects.cpp(11): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

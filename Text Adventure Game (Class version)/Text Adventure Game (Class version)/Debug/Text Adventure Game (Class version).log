@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\niro\source\repos\text adventure game (class version)\text adventure game (class version)\main.cpp(226): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Text Adventure Game (Class version).vcxproj -> C:\Users\Niro\source\repos\Text Adventure Game (Class version)\Debug\Text Adventure Game (Class version).exe
